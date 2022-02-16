@@ -118,16 +118,37 @@ En JavaScript existen dos grandes grupos de tipos de datos: los primitivos y los
 #### Primitivos
 
 1. Numbers - Integers, floats
-1. Strings - Any data under single quote, double quote or backtick quote
-1. Booleans - true or false value
-1. Null - empty value or no value
-1. Undefined - a declared variable without a value
+1. Strings - Cualquier tipo de datos entre comillas simples, dobles o comillas invertidas
+1. Booleans - valores verdaderos o falsos (true o false)
+1. Null -valor vacío o sin valor
+1. Undefined - una variable declarada sin valor
 
 #### No primitivos
 
 1. Arrays
+
+```js
+let listaCompra = ["🍞", "🥦", "🍎"];
+```
+
 1. Objects
+
+```js
+let perro = {
+    nombre: "Toby",
+    raza: "Husky",
+    edad: 2,
+    vacunado: true,
+};
+```
+
 1. Functions
+
+```js
+function saludar(nombre) {
+    console.log("Hola " + nombre);
+}
+```
 
 ## 1.2 Numbers
 
