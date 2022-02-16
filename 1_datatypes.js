@@ -11,6 +11,8 @@ console.log("1.datatypes: 👋 Bienvenidos, en este fichero se harán ejercicios
 
 //crear dos arrays con el mismo contenido y comparar con "==" si ambos arrays son iguales
 
+//ahora comparar el contenido de dichos arrays utilizando un bucle
+
 // crear un objeto "usuario", con tres propiedades
 
 /* Operaciones con números */
