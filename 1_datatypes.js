@@ -18,7 +18,7 @@ console.log("1.datatypes: 👋 Bienvenidos, en este fichero se harán ejercicios
 /* Operaciones con números */
 //crear una constante para la gravedad y redondearla con el método Math.round
 
-//incrementar una variable con otra variable con el operador  =+
+//incrementar una variable con otra variable o número con el operador  +=, mostrar por pantalla la primera variable (la incrementada)
 
 //eleva un número a otro utilizando **
 
