@@ -9,7 +9,7 @@ console.log("1.datatypes: 👋 Bienvenidos, en este fichero se harán ejercicios
 
 //utilizar las mismas variables del ejercicio anterior y realizar una comparación estricta
 
-//crear dos arrays con el mismo contenido y comparar si ambos arrays son iguales
+//crear dos arrays con el mismo contenido y comparar con "==" si ambos arrays son iguales
 
 // crear un objeto "usuario", con tres propiedades
 
